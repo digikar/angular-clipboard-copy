@@ -1,0 +1,31 @@
+{
+  "name": "angular-clipboard-copy",
+  "description": "angular 2 clipboard",
+  "version": "0.0.1",
+  "author": {
+    "name": "Darshan Digikar",
+    "email": "darshandigikar1995@gmail.com"
+  },
+  "homepage": "https://github.com/digikar/angular-clipboard-copy",
+  "license": "MIT",
+  "publishConfig": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digikar/angular-clipboard-copy"
+  },
+  "bugs": {
+    "url": "https://github.com/digikar/angular-clipboard-copy/issues"
+  },
+  "keywords": [
+    "angular",
+    "clipboard",
+    "copy"
+  ],
+  "dependencies": {
+    "ngx-window-token": "^1.0.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  }
+}
